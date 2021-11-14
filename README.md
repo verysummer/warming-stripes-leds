@@ -1,4 +1,4 @@
 # Warming stripes LEDs
 
-Warming stripes showing global temperature rise as LEDs (https://showyourstripes.info/s/globe) 
+Arduino-controlled LEDs showing warming stripes of global temperature rise (https://showyourstripes.info/s/globe) 
 for ADFC Lichterfahrt 2021 
